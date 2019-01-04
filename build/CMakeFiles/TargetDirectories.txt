@@ -1,0 +1,3 @@
+/home/msi/qt_slam_opencv/cvui_program_chooseScreen/build/CMakeFiles/edit_cache.dir
+/home/msi/qt_slam_opencv/cvui_program_chooseScreen/build/CMakeFiles/rebuild_cache.dir
+/home/msi/qt_slam_opencv/cvui_program_chooseScreen/build/CMakeFiles/cvui_program_chooseScreen.dir

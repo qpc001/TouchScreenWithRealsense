@@ -8,6 +8,7 @@ set(CMAKE_CXX_FLAGS "-std=c++11")
 find_package(OpenCV REQUIRED)
 #message(STATUS ${OpenCV_INCLUDE_DIRS})
 #添加头文件
+INCLUDE_DIRECTORIES(./)
 include_directories(${OpenCV_INCLUDE_DIRS})
 #链接Opencv库
 target_link_libraries(cvui_program_chooseScreen ${OpenCV_LIBS} )
